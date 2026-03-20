@@ -2,9 +2,8 @@
 
 AgriSense is an AI-powered web platform developed as a Final Year Project at Namal University. It enables automated crop disease diagnosis and yield estimation through deep learning and image analysis.
 
-**Current Web Platform:** [AgriSense Platform](https://github.com/ayeshag7/AgriSense-Platform)  
-**Initial Prototype (Legacy):** [agrisense-web](https://github.com/ayeshag7/agrisense-web)
-
+**Project Demo:**
+View the web app deployed on Vercel here: https://agri-sense-platform.vercel.app/
 ---
 
 ## Key Features
